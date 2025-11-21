@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yesmin\\source\\repos\\bi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84A41024-F630-4C5A-9B72-4A90D8050FA8}|BI\\BI.csproj|c:\\users\\yesmin\\source\\repos\\bi\\bi\\controllers\\kpicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A41024-F630-4C5A-9B72-4A90D8050FA8}|BI\\BI.csproj|solutionrelative:bi\\controllers\\kpicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A41024-F630-4C5A-9B72-4A90D8050FA8}|BI\\BI.csproj|c:\\users\\yesmin\\source\\repos\\bi\\bi\\services\\kpiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A41024-F630-4C5A-9B72-4A90D8050FA8}|BI\\BI.csproj|solutionrelative:bi\\services\\kpiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A41024-F630-4C5A-9B72-4A90D8050FA8}|BI\\BI.csproj|c:\\users\\yesmin\\source\\repos\\bi\\bi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84A41024-F630-4C5A-9B72-4A90D8050FA8}|BI\\BI.csproj|solutionrelative:bi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A41024-F630-4C5A-9B72-4A90D8050FA8}|BI\\BI.csproj|c:\\users\\yesmin\\source\\repos\\bi\\bi\\services\\ikpiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A41024-F630-4C5A-9B72-4A90D8050FA8}|BI\\BI.csproj|solutionrelative:bi\\services\\ikpiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A41024-F630-4C5A-9B72-4A90D8050FA8}|BI\\BI.csproj|c:\\users\\yesmin\\source\\repos\\bi\\bi\\models\\kpidata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A41024-F630-4C5A-9B72-4A90D8050FA8}|BI\\BI.csproj|solutionrelative:bi\\models\\kpidata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A41024-F630-4C5A-9B72-4A90D8050FA8}|BI\\BI.csproj|c:\\users\\yesmin\\source\\repos\\bi\\bi\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A41024-F630-4C5A-9B72-4A90D8050FA8}|BI\\BI.csproj|solutionrelative:bi\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A41024-F630-4C5A-9B72-4A90D8050FA8}|BI\\BI.csproj|c:\\users\\yesmin\\source\\repos\\bi\\bi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A41024-F630-4C5A-9B72-4A90D8050FA8}|BI\\BI.csproj|solutionrelative:bi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A41024-F630-4C5A-9B72-4A90D8050FA8}|BI\\BI.csproj|c:\\users\\yesmin\\source\\repos\\bi\\bi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A41024-F630-4C5A-9B72-4A90D8050FA8}|BI\\BI.csproj|solutionrelative:bi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Yesmin\\source\\repos\\bi\\bi\\appsettings.json",
+              "RelativeDocumentMoniker": "bi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Yesmin\\source\\repos\\bi\\bi\\appsettings.json",
+              "RelativeToolTip": "bi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-21T14:40:04.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yesmin\\source\\repos\\bi\\bi\\Program.cs",
+              "RelativeDocumentMoniker": "bi\\Program.cs",
+              "ToolTip": "C:\\Users\\Yesmin\\source\\repos\\bi\\bi\\Program.cs",
+              "RelativeToolTip": "bi\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwCgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T14:38:48.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KpiController.cs",
+              "DocumentMoniker": "C:\\Users\\Yesmin\\source\\repos\\bi\\bi\\Controllers\\KpiController.cs",
+              "RelativeDocumentMoniker": "bi\\Controllers\\KpiController.cs",
+              "ToolTip": "C:\\Users\\Yesmin\\source\\repos\\bi\\bi\\Controllers\\KpiController.cs",
+              "RelativeToolTip": "bi\\Controllers\\KpiController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAASwBUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T14:38:31.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KpiService.cs",
+              "DocumentMoniker": "C:\\Users\\Yesmin\\source\\repos\\bi\\bi\\Services\\KpiService.cs",
+              "RelativeDocumentMoniker": "bi\\Services\\KpiService.cs",
+              "ToolTip": "C:\\Users\\Yesmin\\source\\repos\\bi\\bi\\Services\\KpiService.cs",
+              "RelativeToolTip": "bi\\Services\\KpiService.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAF8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T14:37:27.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IKpiService.cs",
+              "DocumentMoniker": "C:\\Users\\Yesmin\\source\\repos\\bi\\bi\\Services\\IKpiService.cs",
+              "RelativeDocumentMoniker": "bi\\Services\\IKpiService.cs",
+              "ToolTip": "C:\\Users\\Yesmin\\source\\repos\\bi\\bi\\Services\\IKpiService.cs",
+              "RelativeToolTip": "bi\\Services\\IKpiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T14:37:08.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\Yesmin\\source\\repos\\bi\\bi\\Data\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "bi\\Data\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\Yesmin\\source\\repos\\bi\\bi\\Data\\DatabaseContext.cs",
+              "RelativeToolTip": "bi\\Data\\DatabaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T14:34:24.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KpiData.cs",
+              "DocumentMoniker": "C:\\Users\\Yesmin\\source\\repos\\bi\\bi\\Models\\KpiData.cs",
+              "RelativeDocumentMoniker": "bi\\Models\\KpiData.cs",
+              "ToolTip": "C:\\Users\\Yesmin\\source\\repos\\bi\\bi\\Models\\KpiData.cs",
+              "RelativeToolTip": "bi\\Models\\KpiData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIA8wAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T14:33:58.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Yesmin\\source\\repos\\bi\\bi\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "bi\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Yesmin\\source\\repos\\bi\\bi\\Models\\Customer.cs",
+              "RelativeToolTip": "bi\\Models\\Customer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA1wA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T14:33:24.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
